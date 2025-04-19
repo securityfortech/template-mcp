@@ -1,0 +1,10 @@
+{
+  "name": "template-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "zod": "^3.22.4"
+  }
+} 
